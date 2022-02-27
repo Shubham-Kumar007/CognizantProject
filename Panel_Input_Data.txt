@@ -1,0 +1,300 @@
+{
+        "panelId": 1,
+        "panelName": "FullStackDeveloper",
+        "technology": "Java",
+        "free_time_starts": "10:00:00",
+        "free_time_ends": "14:00:00",
+        "interviewers": [
+            {
+                "interviewerId": 1,
+                "interviewerName": "Kashmira",
+                "designation": "Senior FullstackDeveloper"
+            },
+            {
+                "interviewerId": 2,
+                "interviewerName": "Raavi",
+                "designation": "Senior FullstackDeveloper"
+            }
+        ],
+        "available": true
+    },
+    {
+        "panelId": 2,
+        "panelName": "BackendDeveloper",
+        "technology": "Java",
+        "free_time_starts": "10:00:00",
+        "free_time_ends": "18:00:00",
+        "interviewers": [
+            {
+                "interviewerId": 3,
+                "interviewerName": "Gaurav Das",
+                "designation": "Senior BackendDeveloper"
+            },
+            {
+                "interviewerId": 4,
+                "interviewerName": "Jass Gill",
+                "designation": "Senior BackendDeveloper"
+            }
+        ],
+        "available": true
+    },
+    {
+        "panelId": 3,
+        "panelName": "FrontendDeveloper",
+        "technology": "Go",
+        "free_time_starts": "10:00:00",
+        "free_time_ends": "15:00:00",
+        "interviewers": [
+            {
+                "interviewerId": 5,
+                "interviewerName": "Nishad Patil",
+                "designation": "Senior FrontendDeveloper"
+            },
+            {
+                "interviewerId": 6,
+                "interviewerName": "Shouvik Banerjee",
+                "designation": "Senior FrontendDeveloper"
+            }
+        ],
+        "available": true
+    },
+   {
+        "panelId": 4,
+        "panelName": "FullStackDeveloper",
+        "technology": "PHP",
+        "free_time_starts": "11:00:00",
+        "free_time_ends": "17:00:00",
+        "interviewers": [
+            {
+                "interviewerId": 7,
+                "interviewerName": "Ashutosh",
+                "designation": "Senior FullstackDeveloper"
+            },
+            {
+                "interviewerId": 8,
+                "interviewerName": "Nipun",
+                "designation": "Senior FullstackDeveloper"
+            }
+        ],
+        "available": true
+    },
+   {
+        "panelId": 5,
+        "panelName": "BackendDeveloper",
+        "technology": "DotNet",
+        "free_time_starts": "08:00:00",
+        "free_time_ends": "12:00:00",
+        "interviewers": [
+            {
+                "interviewerId": 9,
+                "interviewerName": "Mukul",
+                "designation": "Senior BackendDeveloper"
+            },
+            {
+                "interviewerId": 10,
+                "interviewerName": "Samay",
+                "designation": "Senior BackendDeveloper"
+            }
+        ],
+        "available": true
+    },
+    {
+        "panelId": 6,
+        "panelName": "FrontendDeveloper",
+        "technology": "Ruby",
+        "free_time_starts": "10:00:00",
+        "free_time_ends": "20:00:00",
+        "interviewers": [
+            {
+                "interviewerId": 11,
+                "interviewerName": "Shubham Kumar",
+                "designation": "Senior FrontendDeveloper"
+            },
+            {
+                "interviewerId": 12,
+                "interviewerName": "Saswata",
+                "designation": "Senior FrontendDeveloper"
+            }
+        ],
+        "available": true
+    },
+    {
+        "panelId": 7,
+        "panelName": "FullStackDeveloper",
+        "technology": "AI",
+        "free_time_starts": "11:00:00",
+        "free_time_ends": "17:00:00",
+        "interviewers": [
+            {
+                "interviewerId": 13,
+                "interviewerName": "Ajay Devgan",
+                "designation": "Senior FullstackDeveloper"
+            },
+            {
+                "interviewerId": 14,
+                "interviewerName": "Akshay Kumar",
+                "designation": "Senior FullstackDeveloper"
+            }
+        ],
+        "available": true
+    },
+    {
+        "panelId": 8,
+        "panelName": "BackendDeveloper",
+        "technology": "C",
+        "free_time_starts": "19:00:00",
+        "free_time_ends": "23:00:00",
+        "interviewers": [
+            {
+                "interviewerId": 15,
+                "interviewerName": "Uddhav",
+                "designation": "Senior BackendDeveloper"
+            },
+            {
+                "interviewerId": 16,
+                "interviewerName": "Devendra",
+                "designation": "Senior BackendDeveloper"
+            }
+        ],
+        "available": true
+    },
+     {
+        "panelId": 9,
+        "panelName": "FrontendDeveloper",
+        "technology": "AWS",
+        "free_time_starts": "07:00:00",
+        "free_time_ends": "16:00:00",
+        "interviewers": [
+            {
+                "interviewerId": 17,
+                "interviewerName": "Narayan",
+                "designation": "Senior FrontendDeveloper"
+            },
+            {
+                "interviewerId": 18,
+                "interviewerName": "Hari",
+                "designation": "Senior FrontendDeveloper"
+            }
+        ],
+        "available": true
+    },
+   {
+        "panelId": 10,
+        "panelName": "FullStackDeveloper",
+        "technology": "Blockchain",
+        "free_time_starts": "08:00:00",
+        "free_time_ends": "12:00:00",
+        "interviewers": [
+            {
+                "interviewerId": 19,
+                "interviewerName": "Shami",
+                "designation": "Senior FullstackDeveloper"
+            },
+            {
+                "interviewerId": 20,
+                "interviewerName": "Zaheer",
+                "designation": "Senior FullstackDeveloper"
+            }
+        ],
+        "available": true
+    },
+    {
+        "panelId": 11,
+        "panelName": "BackendDeveloper",
+        "technology": "C++",
+        "free_time_starts": "18:00:00",
+        "free_time_ends": "20:00:00",
+        "interviewers": [
+            {
+                "interviewerId": 21,
+                "interviewerName": "Harshal",
+                "designation": "Senior BackendDeveloper"
+            },
+            {
+                "interviewerId": 22,
+                "interviewerName": "Ritesh",
+                "designation": "Senior BackendDeveloper"
+            }
+        ],
+        "available": true
+    },
+    {
+        "panelId": 12,
+        "panelName": "FrontendDeveloper",
+        "technology": "Machine learning",
+        "free_time_starts": "06:00:00",
+        "free_time_ends": "15:00:00",
+        "interviewers": [
+            {
+                "interviewerId": 23,
+                "interviewerName": "Srilaxmi",
+                "designation": "Senior FrontendDeveloper"
+            },
+            {
+                "interviewerId": 24,
+                "interviewerName": "Priti",
+                "designation": "Senior FrontendDeveloper"
+            }
+        ],
+        "available": true
+    },
+    {
+        "panelId": 13,
+        "panelName": "FullStackDeveloper",
+        "technology": "Perl",
+        "free_time_starts": "09:00:00",
+        "free_time_ends": "15:00:00",
+        "interviewers": [
+            {
+                "interviewerId": 25,
+                "interviewerName": "Ruksana",
+                "designation": "Senior FullstackDeveloper"
+            },
+            {
+                "interviewerId": 26,
+                "interviewerName": "Aishwarya",
+                "designation": "Senior FullstackDeveloper"
+            }
+        ],
+        "available": true
+    },
+    {
+        "panelId": 14,
+        "panelName": "BackendDeveloper",
+        "technology": "Java",
+        "free_time_starts": "12:00:00",
+        "free_time_ends": "20:00:00",
+        "interviewers": [
+            {
+                "interviewerId": 27,
+                "interviewerName": "Pratik",
+                "designation": "Senior BackendDeveloper"
+            },
+            {
+                "interviewerId": 28,
+                "interviewerName": "Pooja",
+                "designation": "Senior BackendDeveloper"
+            }
+        ],
+        "available": true
+    },
+    {
+        "panelId": 15,
+        "panelName": "FrontendDeveloper",
+        "technology": "Python",
+        "free_time_starts": "10:00:00",
+        "free_time_ends": "15:00:00",
+        "interviewers": [
+            {
+                "interviewerId": 29,
+                "interviewerName": "Paras",
+                "designation": "Senior FrontendDeveloper"
+            },
+            {
+                "interviewerId": 30,
+                "interviewerName": "Arpan",
+                "designation": "Senior FrontendDeveloper"
+            }
+        ],
+        "available": true
+    }

@@ -1,0 +1,39 @@
+  Indidvidual Urls of Each Services
+
+1>   Consultancy Service
+
+post : localhost:8000/candidate ->   to  post the csv file of candidate to store it into Database
+
+get All:->  localhost:8000/ candidate -> to fetch all the records
+
+fetch by role and string and Array of tech : localhost:8000/candidate/role/tech1,tech2
+ 
+e.g. ->   localhost:8000/candidate/FrontendDeveloper/Java,Go
+
+2> Recruitment Service
+
+get All by role and array of tech -> localhost:8001/recruit/role/tech1,tech2
+
+url to send the records for filtration in eligibility Service-> localhost:8001/recruit/isEligible
+
+to fetch datas filtered by eligibility service=>  localhost:8001/recruit/eligible
+
+fetch data from audit in recruitment->     localhost:8001/recruit/audit
+
+3>Eligibility Service
+
+to send data from eligibility to recruitment-> localhost:8002/eligible/isEligible
+
+4>Interview Servie
+
+post the panel data in database:-  url-localhost:8003/panel
+
+Get all the panel Data->  localhost:8003/panel
+
+Get the list of panel assigned to students-> localhost:8003/panel/interview
+
+5>Audit Service
+
+Get the list of Panel And Candidate from Audit Database-> localhost:8004/audit
+
+

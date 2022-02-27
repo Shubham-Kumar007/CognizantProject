@@ -1,0 +1,28 @@
+
+			ALL the Requested Urls to hit -
+
+
+All Post Urls to hit for applicaton :
+
+	http://localhost:8765/Service1/candidate
+
+	http://localhost:8765/Service4/panel
+
+All Get Urls to hit in application :
+
+	http://localhost:8765/Service1/candidate
+
+	http://localhost:8765/Service1/candidate/FrontendDeveloper/Java,Go
+
+	http://localhost:8765/Service2/recruit/FrontendDeveloper/Java,Go
+
+	http://localhost:8765/Service2/recruit/isEligible
+
+	http://localhost:8765/Service2/recruit/eligible
+
+	http://localhost:8765/Service3/eligible/isEligible
+
+	http://localhost:8765/Service4/panel/interview
+	
+	http://localhost/Service5/recruit/audit
+
